@@ -8,7 +8,7 @@ const program = new Command();
 program
   .name("igris")
   .description("personal coding agent")
-  .version("0.0.1");
+  .version("0.1.0");
 
 program
   .command("arise")
